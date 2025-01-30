@@ -1,5 +1,1 @@
-This is my first file. 
-
-body {
-	font: Times New Roman;
-}
+This is my first file.
